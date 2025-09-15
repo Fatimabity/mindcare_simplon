@@ -341,6 +341,7 @@ footer p {
     margin: 0px 0px 20px 350px;
     color: #dad0cd;
 }
+/*----------------------------------------------responsivite-----------------------------------------------*/
 
 /* Tablettes (max-width: 992px) */
 @media screen and (max-width: 992px) {
